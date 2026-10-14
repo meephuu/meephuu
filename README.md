@@ -4,7 +4,7 @@ I'm a **Computer Engineering** student at **Chulalongkorn University** with a st
 
 ## Contact
 - Email: phu.anuntaworasakul@email.com
-- LinkedIn: [Phu Anuntaworasakul](https://linkedin.com/in/your-name)
+- LinkedIn: [Phu Anuntaworasakul](www.linkedin.com/in/phu-anuntaworasakul-7219873b3)
 - 🌐 My Resume Website: *Coming soon*
 
 ## Tech stack
