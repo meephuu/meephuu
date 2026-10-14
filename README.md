@@ -1,20 +1,16 @@
 # Hi, I'm Meephu 👋
 
-University student interested in both hardware and software engineering.
+I'm a **Computer Engineering** student at **Chulalongkorn University** with a strong interest in Web Development and Software Engineering.
 
-## 🔭 What I'm working on
-- Web projects (React, Node.js, etc.)
-- Embedded / hardware experiments
+## Contact
+- Email: phu.anuntaworasakul@email.com
+- LinkedIn: [Phu Anuntaworasakul](https://linkedin.com/in/your-name)
+- 🌐 My Resume Website: *Coming soon*
 
-## 🛠 Tech stack
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+## Tech stack
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-## 📫 Contact
-- Email: your@email.com
-- LinkedIn: [your-name](https://linkedin.com/in/your-name)
-
-## 📊 GitHub stats
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
