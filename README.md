@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Meephu 👋
 
-<!--
-**meephuu/meephuu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+University student interested in both hardware and software engineering.
 
-Here are some ideas to get you started:
+## 🔭 What I'm working on
+- Web projects (React, Node.js, etc.)
+- Embedded / hardware experiments
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech stack
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?logo=arduino&logoColor=white)
+
+## 📫 Contact
+- Email: your@email.com
+- LinkedIn: [your-name](https://linkedin.com/in/your-name)
+
+## 📊 GitHub stats
+![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
