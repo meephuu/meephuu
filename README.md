@@ -1,7 +1,8 @@
 # Hi, I'm Meephu 👋
 
 I'm a **Computer Engineering** student at **Chulalongkorn University** with a strong interest in Web Development and Software Engineering.
-🌐 My Resume Website: *Coming soon*
+
+🌐 *[My Portfolio Website](https://phu-anuntaworasakul.vercel.app/)*
 
 ## Contact
 - Email: phu.anuntaworasakul@email.com
