@@ -2,11 +2,11 @@
 
 I'm a **Computer Engineering** student at **Chulalongkorn University** with a strong interest in Web Development and Software Engineering.
 
-🌐 *<a href="https://phu-anuntaworasakul.vercel.app/" target="_blank">My Portfolio Website</a>*
+🌐 *[My Portfolio Website](https://phu-anuntaworasakul.vercel.app/)*
 
 ## Contact
-- Email: phu.anuntaworasakul@email.com
-- LinkedIn: <a href="https://www.linkedin.com/in/phu-anuntaworasakul-7219873b3" target="_blank">Phu Anuntaworasakul</a>
+- Email: phu.anuntaworasakul@gmail.com
+- LinkedIn: [Phu Anuntaworasakul](https://www.linkedin.com/in/phu-anuntaworasakul-7219873b3)
 
 ## Tech stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
